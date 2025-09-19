@@ -31,15 +31,15 @@
     }
   ],
   "devDependencies": {
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^3.0.4",
     "del": "^3.0.0",
-    "firebase-tools": "^7.3.0",
+    "firebase-tools": "^13.6.0",
     "gulp": "^4.0.0",
     "gulp-eslint": "^5.0.0",
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^6.0.1"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
-    "node-sass": "^4.9.3"
+    "lodash": "^4.17.21",
+    "node-sass": "^9.0.0"
   }
 }
